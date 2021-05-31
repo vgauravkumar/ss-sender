@@ -2,9 +2,11 @@
 Job : Sends the screenshot of the host PC to the discord server on which the screenshot is requested.
 Read this full document to make it for yourself without any coding skills.
 
-**Language used : Python 3.7**
-**Library used : pyautogui**
-**API used : Discord Python API**
+**Used Items = {"Language" : "Python 3.7",**
+**"Library" : "pyautogui",**
+**"API" : "Discord Python API"}**
+
+
 
 **FAQs you must read before running this for your needs:**
 
