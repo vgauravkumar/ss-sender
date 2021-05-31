@@ -84,6 +84,6 @@ That's it. Now you can test it on your discord server by typing $ss or let any o
 
 You can close the code file window if you want, but do not close the output window(It shall be displaying "Logged in as xyz").
 
-To stop the bot simply press Ctrl+C in the output window or close the output window and killing the process.
+To stop the bot simply press Ctrl+Z in the output window or close the output window and killing the process.
 
 This bot is not made for the purpose of taking away privacy from anyone in any form.
