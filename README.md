@@ -8,7 +8,7 @@ How to test it on my server?
 2. To check if bot is online, send message : $hello
 3. If bot replies back, that means bot is online. Send message "$ss" to get the screenshot.
 
-PS : You can also DM the bot xD.
+PS : You can also DM the bot.
 
 How to create this bot yourself?
-Will be writing the answer in some time.
+Will be writing an answer to that shortly, but surely you'll have to do a lot of Ctrl+C/V.
