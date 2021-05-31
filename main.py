@@ -3,7 +3,6 @@ import pyautogui
 import os
 
 #variables
-location = r'C:\Users\KIIT\PycharmProjects\ssSender\ss\ss.png'
 TOKEN = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 #Code starts
