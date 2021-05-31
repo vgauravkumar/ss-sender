@@ -12,12 +12,14 @@ Read this full document to make it for yourself without any coding skills.
 
 Q.	What is the use of this Bot?
 
-	This bot is a tool which is used by people to spy on their kids/sibilings if they're like me, who play games and tell their parents/sibilings that they're studing, without disturbing them.
+	This bot is a tool which is used by people to keep a check on their kids/sibilings,
+	who might bluff you if you go near them and see computer screen,
+	without disturbing them.
 	Sorry peeps!
 
 Q.	Can this bot be used for cheating?
 	
-	Yes, you can use a knife to make your faviorite food and serve it to your brother to show your love and affection towards him and also you can use it to stab someone you hate or probably you'll be going to hate yourself in mere future if you'll use this to cheat.
+	Yes, it can be used to cheat, but it's like a tool which can be used for either an purpose or demonic same as nuclear power.
 
 Q.	What are the requirements ?
 	
@@ -63,7 +65,8 @@ Q. How to make this bot?
 	3. Install dependencies.
 		-	Click on windows start button on left bottom corner of the screen.
 		-	Type command prompt in the search bar and open the black coloured icon.
-		-	Paste "pip install 	pyautogui" as the black colour screen opens and let the installation happen. (max 1 minute)
+		-	Paste "pip install pyautogui" as the black colour screen opens and let the installation happen.
+			-	It would just take a minute or two.
 		
 	4. Copy paste token and location
 		-	Open IDLE by searching in search from windows start button.
